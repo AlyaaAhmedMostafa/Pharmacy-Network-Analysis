@@ -24,12 +24,11 @@ State-Level Concentration
 
 Top 5 States by Pharmacy Count:
 
-Rank	State	Pharmacy Count	      % of Total
-1	California	          5,802                                 	           9.2%
-2	Florida	          4,376	          7.0%
-3	New York	          4,352	          6.9%
-4	Texas                          	         4,339	         6.9%
-5	Pennsylvania	         2,819	         4.5%
+1	California, 5,802 pharmacies (9.2%)
+2	Florida, 4,376 pharmacies (7.0%)
+3	New York, 4,352 pharmacies(6.9%)
+4	Texas , 4,339 pharmacies(6.9%)
+5	Pennsylvania, 2,819	pharmacies(4.5%)
 
 Analysis: The top 5 states represent 34.5% of all pharmacies, indicating significant concentration in high-population states. California alone accounts for nearly 1 in 10 pharmacies nationwide.
 
@@ -68,6 +67,7 @@ Market Implications:
 Identified Chain Pharmacies
 
 Major chains identified in the analysis include:
+
 •	CVS
 
 •	Walgreens
