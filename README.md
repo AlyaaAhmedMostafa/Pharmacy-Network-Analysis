@@ -1,10 +1,10 @@
-## PHARMACY NETWORK ANALYSIS
+# PHARMACY NETWORK ANALYSIS
 Executive Report
 
 Analysis Period: 2010 Contract Year
 Total Pharmacies Analyzed: 62,973
 ________________________________________
-# EXECUTIVE SUMMARY
+## EXECUTIVE SUMMARY
 This comprehensive analysis examines the pharmacy network landscape across the United States, encompassing 62,973 pharmacy locations with contract dates from 2010. The analysis reveals critical insights into geographic distribution, market structure, and data quality issues that require immediate attention.
 Key Highlights:
 •	Nationwide Coverage: 56 states and 1,826 counties served
@@ -12,7 +12,7 @@ Key Highlights:
 •	Geographic Concentration: Top 10 counties account for 10 % of all pharmacies
 •	Critical Data Quality Issue: 100% invalid National Provider Identifier (NPI) records
 ________________________________________
-# 1. GEOGRAPHIC DISTRIBUTION
+## 1. GEOGRAPHIC DISTRIBUTION
 National Coverage
 The pharmacy network demonstrates extensive geographic reach across 56 states and 1,826 counties, providing broad access to pharmaceutical services nationwide.
 State-Level Concentration
@@ -33,7 +33,7 @@ Healthcare Access Concerns
 294 counties (16.1% of all counties) have minimal pharmacy access with ≤2 pharmacies per county. This represents a significant healthcare accessibility challenge, particularly in rural and underserved areas.
 Recommendation: Prioritize expansion initiatives or telehealth pharmacy services in underserved counties to improve medication access.
 ________________________________________
-# 2. MARKET STRUCTURE ANALYSIS
+## 2. MARKET STRUCTURE ANALYSIS
 Chain vs. Independent Pharmacy Distribution
 Independent Pharmacies: 67.5% (42,557 locations)
 Chain Pharmacies:       32.5% (20,416 locations)
@@ -52,7 +52,7 @@ Major chains identified in the analysis include:
 •	Walmart
 •	Rite Aid
 ________________________________________
-# 3. DATA QUALITY Metrics
+## 3. DATA QUALITY Metrics
 Positive Findings:
 •	Low Duplication Rate: Only 1.35% duplicate locations (excellent data hygiene)
 •	Minimal Missing Data: <2.5% missing contract dates
@@ -61,7 +61,7 @@ Missing Data Summary:
 •	CONTDATE: 2.49% missing
 •	Other fields: <0.05% missing
 ________________________________________
-# 4. TEMPORAL ANALYSIS
+## 4. TEMPORAL ANALYSIS
 Contract Year Distribution
 Single-Year Dataset: All 61,408 pharmacies with valid contract dates are from 2010.
 Implications:
@@ -70,7 +70,7 @@ Implications:
 3.	Data may represent initial system implementation or migration event
 4.	Current status of these pharmacy contracts (2026) is unknown
 ________________________________________
-# 5. BUSINESS INTELLIGENCE INSIGHTS
+## 5. BUSINESS INTELLIGENCE INSIGHTS
 Unique Physical Locations
 62,509 unique physical pharmacy locations identified (vs. 62,973 total records)
 Delta Analysis: 464 duplicate location records (0.74% of total)
@@ -85,7 +85,7 @@ This uniform classification indicates:
 •	Consistent business model across network
 •	Simplified regulatory compliance tracking
 ________________________________________
-# CONCLUSION
+## CONCLUSION
 The pharmacy network demonstrates extensive geographic reach with strong representation of independent pharmacies (67.5%). 
 While the network covers 56 states and 1,826 counties, significant opportunities exist to improve access in 294 underserved counties. The concentration of pharmacies in major metropolitan areas (Los Angeles, Chicago, Miami-Dade) suggests potential for strategic expansion into secondary markets.
 Overall Assessment:
@@ -93,7 +93,7 @@ Overall Assessment:
 •	Concerns: rural access gaps, single-year temporal view
 •	Opportunity: targeted rural expansion
 ________________________________________
-# APPENDIX: METHODOLOGY
+## APPENDIX: METHODOLOGY
 Data Source: Pharmacy network dataset (62,973 records)
 Analysis Tools: Python (pandas, NumPy, matplotlib, seaborn)
 Key Metrics: Geographic distribution, market structure, data quality, temporal trends
